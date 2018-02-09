@@ -7,7 +7,7 @@ Receive a http GET request and send it to multiple microservices. Useful when yo
 
 ### How it works?
 
-[![6e464537980306edd9f0df0d2d1c30ef1dbedd62](https://user-images.githubusercontent.com/6298396/36018301-efb3a37a-0d83-11e8-84d0-43320e1e6212.png)]
+![6e464537980306edd9f0df0d2d1c30ef1dbedd62](https://user-images.githubusercontent.com/6298396/36018301-efb3a37a-0d83-11e8-84d0-43320e1e6212.png)
 
 Just complete the `conf.json` file and run the server. Example:
 
