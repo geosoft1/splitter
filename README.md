@@ -3,9 +3,11 @@ http splitter
 
 [![license](https://img.shields.io/badge/license-gpl-blue.svg)](https://github.com/geosoft1/splitter/blob/master/LICENSE)
 
-Receive a http GET request and send it to multiple microservices. Useful when you have a production server and want to receive the same request on development server. Another application is database realtime replication by a microservice.
+Receive a http GET request and send it to multiple microservices. Useful when you have a production server and want to receive the same request on development server. Another application is database realtime replication by a microservice. Can work with [reverseproxy](https://github.com/geosoft1/reverseproxy) project.
 
 ### How it works?
+
+[![6e464537980306edd9f0df0d2d1c30ef1dbedd62](https://user-images.githubusercontent.com/6298396/36018301-efb3a37a-0d83-11e8-84d0-43320e1e6212.png)]
 
 Just complete the `conf.json` file and run the server. Example:
 
